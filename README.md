@@ -1,5 +1,5 @@
 # Student template
-[![Coverage Status](https://coveralls.io/repos/github/BasilOmsha/COMP.SE.200-2024-2025-1/badge.svg?branch=ci-setup)](https://coveralls.io/github/BasilOmsha/COMP.SE.200-2024-2025-1?branch=ci-setup)
+[![Coverage Status](https://coveralls.io/repos/github/BasilOmsha/COMP.SE.200-2024-2025-1/badge.svg?branch=ci-setup)](https://coveralls.io/github/BasilOmsha/COMP.SE.200-2024-2025-1?branch=main)
 
 ## Purpose of this repository
 
